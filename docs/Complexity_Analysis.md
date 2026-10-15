@@ -1,3 +1,5 @@
-1. Identify the task that needs to the Performed!
-2. Account for all possible scenarios - consider every possible action and its corresponding outcome. 
-3. 
+1. Start by identify the core task that need to be performed and it start by identifying the following
+   a. Type of task. 
+   b. Contextual data need to accomplish the task definitively.
+   c. 
+2. 
